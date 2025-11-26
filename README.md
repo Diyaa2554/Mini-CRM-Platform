@@ -8,32 +8,17 @@ This project is a Mini CRM Platform built as part of the Xeno SDE Internship Ass
 
 ## Table of Contents
 
-1.  [Live Demo](#live-demo)
-2.  [Demo Video](#demo-video)
-3.  [Features Implemented](#features-implemented)
-4.  [Tech Stack](#tech-stack)
-5.  [Architecture Diagram](#architecture-diagram)
-6.  [Getting Started](#getting-started)
+1.  [Features Implemented](#features-implemented)
+2.  [Tech Stack](#tech-stack)
+3.  [Architecture Diagram](#architecture-diagram)
+4.  [Getting Started](#getting-started)
     *   [Prerequisites](#prerequisites)
     *   [Backend Setup](#backend-setup)
     *   [Frontend Setup](#frontend-setup)
-7.  [API Documentation](#api-documentation)
-8.  [AI Integration](#ai-integration)
-9.  [Known Limitations & Assumptions](#known-limitations--assumptions)
-10. [Future Scope](#future-scope)
-
----
-
-## Live Demo
-
-[Frontend Link](https://crm-xeno-gamma.vercel.app/)
-[Backend Link](https://crm-xeno.onrender.com)
-
----
-
-## Demo Video
-
-[Demo Video Link](https://youtu.be/DzXMvPxYn38) 
+5.  [API Documentation](#api-documentation)
+6.  [AI Integration](#ai-integration)
+7.  [Known Limitations & Assumptions](#known-limitations--assumptions)
+8. [Future Scope](#future-scope)
 
 ---
 
