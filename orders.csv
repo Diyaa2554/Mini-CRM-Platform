@@ -1,0 +1,9 @@
+order_external_id,customer_identifier,items_description,total_amount,order_date
+ORDER_A01,alice@example.com,"Tea Party Set, Mad Hatter Tea",75.50,2025-01-15
+ORDER_A02,CUST001,"Cheshire Cat Plush",22.00,2025-01-20
+ORDER_B01,bob@example.com,"Toolbox Deluxe, Hard Hat",120.00,2025-02-10
+ORDER_C01,charlie@example.com,"Kite, Football",35.75,2025-03-05
+ORDER_D01,diana@example.com,"Lasso of Truth (Replica)",99.99,2025-04-01
+ORDER_E01,CUST005,"Topiary Shears, Ice Sculpture Kit",150.25,2025-04-10
+ORDER_A03,alice@example.com,"Queen of Hearts Croquet Set",45.00,2025-04-12
+ORDER_F01,fiona@example.com,"Piano Songbook, Microphone",88.60,2025-04-15

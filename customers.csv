@@ -1,0 +1,7 @@
+customer_external_id,name,email,phone,location
+CUST001,Alice Wonderland,alice@example.com,111-222-3333,New York
+CUST002,Bob The Builder,bob@example.com,444-555-6666,London
+CUST003,Charlie Brown,charlie@example.com,,Paris
+CUST004,Diana Prince,diana@example.com,777-888-9999,Themyscira
+CUST005,Edward Scissorhands,edward@example.com,555-123-4567,Suburbia
+CUST006,Fiona Apple,fiona@example.com,,Los Angeles
